@@ -1,4 +1,4 @@
-#program menggunakan cara kedua (dengan metode)
+#program menggunakan cara ketiga (dengan atribut/variabel dan metode)
 
 class Color():
 	def __init__(self, r, g, b):
