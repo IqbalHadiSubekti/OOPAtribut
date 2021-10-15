@@ -1,3 +1,5 @@
+#program menggunakan cara kedua (dengan metode)
+
 class Color():
 	def __init__(self, r, g, b):
 		self.r = r
